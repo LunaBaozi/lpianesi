@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Bioinformatics, Bielefeld University, 2027 (expected)
+* M.S. in Artificial Intelligence Systems, University of Trento, 2023
+* B.S. in Genomics, University of Bologna, 2020
 
 Work experience
 ======
