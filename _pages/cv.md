@@ -17,29 +17,32 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Winter 2023, 2024: Teaching assistant
+  * Programming in Python
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2024, 2025: Teaching Assistant
+  * Graph Neural Networks in Biology (seminar)
+  * Advances in Attention Networks (seminar)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research stays
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Autumn 2025: Cornell University, New York, New York, USA
+  * Cancer
+
+* Summer 2025: Hunan University, Changsha, Hunan, China
+  * Drug design
+
+* Summer 2022: Cambridge University, Cambridge, UK
+  * Graph neural networks
+  * Explainable AI
+  * Molecular property prediction
+
+  
+Programming skills
+======
+* Python (PyTorch, DGL, PyG, OpenCV)
+* R (biostatistics)
+* Rust (beginner)
 
 Publications
 ======
@@ -59,6 +62,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
