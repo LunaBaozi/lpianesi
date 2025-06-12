@@ -22,11 +22,11 @@ repository               : "LunaBaozi/lpianesi"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profpic.jpg"
+  avatar           : #"profpic.jpg"
   name             : "Luna Pianesi"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Bioinformatics"
-  location         : "Bielefeld, Germany"
+  location         : "Changsha, China"
   employer         : "Bielefeld University"
   uri              : # URL
   email            : "luna.pianesi@uni-bielefeld.de" 
