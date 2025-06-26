@@ -17,17 +17,13 @@ Education
 
 Work experience
 ======
-* Winter 2023, 2024: Teaching assistant
-  * Programming in Python
-
-* Summer 2024, 2025: Teaching Assistant
-  * Graph Neural Networks in Biology (seminar)
+* Teaching assistant
   * Advances in Attention Networks (seminar)
+  * Graph Neural Networks in Biology (seminar)
+  * Programming in Python (course)
 
 Research stays
 ======
-* Autumn 2025: Cornell University, New York, New York, USA
-  * Cancer
 
 * Summer 2025: Hunan University, Changsha, Hunan, China
   * Drug design
@@ -48,12 +44,6 @@ Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching

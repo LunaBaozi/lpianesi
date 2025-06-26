@@ -22,9 +22,9 @@ repository               : "LunaBaozi/lpianesi"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profpic.jpg"
+  avatar           : "profpic.jpg"
   name             : "Luna Pianesi"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "PhD student in Bioinformatics"
   location         : "Changsha, China"
   employer         : "Bielefeld University"

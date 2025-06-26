@@ -1,0 +1,18 @@
+---
+permalink: /
+title: "Contact me"
+author_profile: true
+redirect_from: 
+  - /contact-me/
+  - /contact-me.html
+---
+
+Interested in collaborating or writing something together?
+
+**Work email**: [lpianesi@cebitec.uni-bielefeld.de](mailto:lpianesi@cebitec.uni-bielefeld.de)
+
+**Personal email**: [luna.pianesi@gmail.com](mailto:luna.pianesi@gmail.com)
+
+**Location**: Universitätsstraße 25, 33605 Bielefeld, Germany
+
+**Office**: U10-120 
