@@ -1,6 +1,7 @@
 ---
-permalink: /
+layout: archive
 title: "Contact me"
+permalink: /contact-me/
 author_profile: true
 redirect_from: 
   - /contact-me/
