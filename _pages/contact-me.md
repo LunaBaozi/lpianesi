@@ -3,9 +3,6 @@ layout: archive
 title: "Contact me"
 permalink: /contact-me/
 author_profile: true
-redirect_from: 
-  - /contact-me/
-  - /contact-me.html
 ---
 
 Interested in collaborating or writing something together?
