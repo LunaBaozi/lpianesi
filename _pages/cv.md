@@ -18,15 +18,18 @@ Education
 Work experience
 ======
 * Teaching assistant
-  * Advances in Attention Networks (seminar)
-  * Graph Neural Networks in Biology (seminar)
-  * Programming in Python (course)
+  * Advances in Attention Networks 
+  * Graph Neural Networks in Biology 
+  * Programming in Python 
 
 Research stays
 ======
+* Fall 2025: Simon Fraser University, Vancouver, British Columbia, Canada
 
 * Summer 2025: Hunan University, Changsha, Hunan, China
-  * Drug design
+  * Computational drug design
+  * Molecular generative models
+  * Docking and post-hoc filtering 
 
 * Summer 2022: Cambridge University, Cambridge, UK
   * Graph neural networks
