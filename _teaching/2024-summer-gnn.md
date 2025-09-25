@@ -1,7 +1,7 @@
 ---
 title: "Graph Neural Networks in Biology"
 collection: teaching
-type: "Gradute seminar"
+type: "Graduate seminar"
 permalink: /teaching/2024-summer-gnn
 venue: "Bielefeld University, Technical Faculty"
 date: 2024-01-01
