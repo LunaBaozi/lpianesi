@@ -13,7 +13,7 @@ I am a PhD student in the [Genome Data Science](https://gds.techfak.uni-bielefel
 
 I am a teaching assistant for some courses you can find [here](https://lunabaozi.github.io/lpianesi/teaching/), and lucky co-supervisor of two Master students working on molecular synthesizability prediction and molecular activity prediction with graph neural networks.
 
-Previously to becoming a PhD student, I graduated with a BSc in Genomics and a MSc in Artificial Intelligence Systems.
+Previously to becoming a PhD student, I graduated with a BSc in Genomics and a MSc in Artificial Intelligence Systems. 
 
 ## Research topics
 
