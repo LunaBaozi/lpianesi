@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate seminar"
 permalink: /teaching/2024-summer-gnn
 venue: "Bielefeld University, Technical Faculty"
-date: 2024-01-01
+date: 
 location: "Bielefeld, Germany"
 ---
 
