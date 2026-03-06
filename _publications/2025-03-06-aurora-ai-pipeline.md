@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-03-06-aurora-ai-pipeline
 excerpt: #
-date: 2025-03-06
+date: 2026-03-06
 venue: 'GEM workshop, ICLR 2026'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://openreview.net/forum?id=mtQ0RXJZp2'
