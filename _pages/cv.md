@@ -18,6 +18,8 @@ Education
 Work experience
 ======
 * Teaching assistant
+  * Generative Models in Biomedicine
+  * Data Structures in Pangenomics
   * Advances in Attention Networks 
   * Graph Neural Networks in Biology 
   * Programming in Python 
@@ -25,6 +27,9 @@ Work experience
 Research stays
 ======
 * Fall 2025: Simon Fraser University, Vancouver, British Columbia, Canada
+  * Green chemistry
+  * Reinforcement learning
+  * GFlowNets
 
 * Summer 2025: Hunan University, Changsha, Hunan, China
   * Computational drug design
